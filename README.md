@@ -9,7 +9,10 @@ Using:
 - .Net Framework
 
   !!! Attention !!!
-  Need to instal Packages EF 6 in NuGet 
+  Need to instal Packages EF 6 in NuGet
+
+  ![image](https://github.com/user-attachments/assets/b7d01b76-cc94-4aaf-a69d-e72b7d58b9a6)
+
 
   Example:
 
