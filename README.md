@@ -1,4 +1,4 @@
-# EF---Example-of-Entity-Framework
+# EF---Example of Entity Framework
 Example of Entity Framework
 
 Using:
