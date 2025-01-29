@@ -2,7 +2,7 @@
 Example of Entity Framework
 
 Using:
-- EF
+- EF 6
 - Models: code first, model ferst, DB first
 - C#
 - Win Forms
